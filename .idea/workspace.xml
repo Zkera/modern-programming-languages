@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38e2a258-ebdd-4fcc-8f09-cd0c93aed6a1" name="Changes" comment="Первая практическая работа">
-      <change afterPath="$PROJECT_DIR$/practical work 1.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical work 1.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+    <list default="true" id="38e2a258-ebdd-4fcc-8f09-cd0c93aed6a1" name="Changes" comment="Домашняя работа 1">
+      <change afterPath="$PROJECT_DIR$/practical work 2/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical work 2/wind_dataset.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practical work 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practical work 1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical work 1/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practical work 1/3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,21 +25,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Zkera"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zkera&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Zkera/study.git",
-    "accountId": "96b288a7-647b-4e37-810b-a1b66ce442be"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zkera/study.git&quot;,
+    &quot;accountId&quot;: &quot;96b288a7-647b-4e37-810b-a1b66ce442be&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2luPZUPjZMyk3aJDQkNNRipj2nE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,10 +57,14 @@
     "Python.practical work 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Yura/python_project/pythonProject/practical work 2",
     "settings.editor.selected.configurable": "IntelliLang.Configuration"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Yura\python_project\pythonProject\practical work 2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Yura\python_project\pythonProject" />
     </key>
@@ -95,12 +101,32 @@
       <option name="project" value="LOCAL" />
       <updated>1726028605889</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Домашняя работа 1">
+      <option name="closed" value="true" />
+      <created>1726030844231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726030844231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Project" />
     <MESSAGE value="Первая практическая работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="Первая практическая работа" />
+    <MESSAGE value="Домашняя работа 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа 1" />
   </component>
 </project>
