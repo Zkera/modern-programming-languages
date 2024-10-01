@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38e2a258-ebdd-4fcc-8f09-cd0c93aed6a1" name="Changes" comment="Домашняя работа 1">
-      <change afterPath="$PROJECT_DIR$/practical work 2/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical work 2/wind_dataset.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practical work 1/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practical work 1/3.py" afterDir="false" />
-    </list>
+    <list default="true" id="38e2a258-ebdd-4fcc-8f09-cd0c93aed6a1" name="Changes" comment="Домашняя работа 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,18 +44,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.practical work 1.1.executor": "Run",
-    "Python.practical work 1.2.executor": "Run",
-    "Python.practical work 1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Yura/python_project/pythonProject/practical work 2",
-    "settings.editor.selected.configurable": "IntelliLang.Configuration"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical work 1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical work 1.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical work 1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Yura/python_project/pythonProject/practical work 2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;IntelliLang.Configuration&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Yura\python_project\pythonProject\practical work 2" />
