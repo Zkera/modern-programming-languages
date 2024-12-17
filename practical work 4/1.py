@@ -1,7 +1,8 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import pymysql.cursors #для соединения с БД
-mydb = pymysql.connect( # Параметры подключения к MySQL    host = "localhost",
+# Параметры подключения к MySQL
+mydb = pymysql.connect(host = "localhost",
     user="root",    password="sharty_beem",
     database="лесной_участок")
 mycursor = mydb.cursor() #для выполнения SQL-запросов и извлечения результатов из базы данных
